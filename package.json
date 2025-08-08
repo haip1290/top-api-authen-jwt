@@ -1,0 +1,25 @@
+{
+  "name": "top-api-authen-jwt",
+  "version": "1.0.0",
+  "description": "top api authen example using jwt and express",
+  "homepage": "https://github.com/haip1290/top-api-authen-jwt#readme",
+  "bugs": {
+    "url": "https://github.com/haip1290/top-api-authen-jwt/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haip1290/top-api-authen-jwt.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
